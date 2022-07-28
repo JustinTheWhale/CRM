@@ -16,4 +16,4 @@
 
 
 ## Example
-<img src="examples/example.png">
+<img src="example/example.png">
