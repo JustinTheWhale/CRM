@@ -1,0 +1,13 @@
+.vscode
+__pycache__
+include
+lib
+pyvenv.cfg
+lib64
+bin
+setup.cfg
+dist
+.pypirc
+Scripts
+Lib
+Include
